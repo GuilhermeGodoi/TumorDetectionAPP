@@ -29,9 +29,15 @@ Este é o meu Trabalho de Conclusão de Curso que realizei no ensino médio/tén
 - Firebase
 
 
-### About ERRORs and Firebase
+### About APP, ERRORs & Firebase
 
 For this publication I decided to remove the Firebase database since it has data that connect my account to the app, in addition to that can cause errors if you are not connected correctly, so the login and registration screen will be authorized automatically independent of the reported informations.
+
+If you open the project and start dissecting it, you will notice that it is like Frankenstein since there are many superimposed and ready-made images where only buttons were placed on top, it was my first contact with all these technologies, I already had the basics of high school / technical but I decided to go a little further. However the application was made with great care, I hope you like it.
+
+# Training 
+
+All Images used are from a Dataset on Kaggle, and are Trained on Cascade Trainer GUI that is an Guide User Interface that reads Positive images (With Tumors) and Negative images (No tumors) and start to learn with this images by finding patterns in their pixels.
 
 ## Video Presentation
 
