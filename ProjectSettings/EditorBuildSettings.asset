@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: 32d9e9a71bb527a43944fa9a575a6753
+  - enabled: 1
+    path: Assets/Scenes/Camera.unity
+    guid: ce93e7ace9a123a418368367d2d2307c
+  - enabled: 1
+    path: Assets/Scenes/PaginaInicial 1.unity
+    guid: 18df15a0d1b1feb4c90b3057e71f2aaf
+  - enabled: 1
+    path: Assets/Scenes/PaginaInicial.unity
+    guid: 88049ebcb6bf2c7478402bf8277a3477
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/PaginaMenu.unity
+    guid: cbe643d5c0a59a74d9c0736a1b6c4eb1
+  - enabled: 1
+    path: Assets/Scenes/PaginaSobre.unity
+    guid: 976efaf2f348c4c4084bacfecce4aec9
+  - enabled: 1
+    path: Assets/Scenes/Registro.unity
+    guid: adbbbca84e1591f47bc32848d5bc235d
+  - enabled: 1
+    path: Assets/Scenes/PaginaTutor.unity
+    guid: 7271043fabbe4924aa3aeb6152f90e22
+  m_configObjects: {}

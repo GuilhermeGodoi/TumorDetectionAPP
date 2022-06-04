@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "19816214487",
+    "project_id": "logindatabase-15eff",
+    "firebase_url": "https://logindatabase-15eff-default-rtdb.firebaseio.com/",
+    "storage_bucket": "logindatabase-15eff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19816214487:android:61b78b2745b87163996592",
+        "android_client_info": {
+          "package_name": "com.GuilhermeMosso.BrainTumorDetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19816214487-0o08mferhhra348ag904986psgkdfa3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtrWiANgRv96cEYF9Hi293zKt4Kd_HOeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19816214487-0o08mferhhra348ag904986psgkdfa3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
